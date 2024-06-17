@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonEbsen
 - 👀 I’m interested in macroeconomics
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: SQL and MATLAB
 - 📫 How to reach me: Anywhere on social media (Linked in profile)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I own 150+ cans of mackerel in tomato sauce
