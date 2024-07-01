@@ -31,7 +31,8 @@ Click the badge above to listen to my favorite playlist on Spotify!
 
 ## Tech stack
 ### Programming languages
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Stata](https://img.shields.io/badge/Stata?style=for-the-badge&logo=stata&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata?style=for-the-badge&logo=stata&logoColor=white)
 
 ## Certifications:
 
