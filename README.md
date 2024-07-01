@@ -43,6 +43,7 @@ Click the badge above to listen to my favorite playlist on Spotify!
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A248?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Maple](https://img.shields.io/badge/Maple-0072B6?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
 
 ### Operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
