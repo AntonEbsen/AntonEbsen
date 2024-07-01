@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I own 150+ cans of mackerel in tomato sauce
 
-## 🎵 My Spotify Playlist
+## 🎵 My Spotify playlist
 
 Click the link below to listen to my favorite playlist on Spotify!
 
@@ -31,7 +31,7 @@ Click the badge above to listen to my favorite playlist on Spotify!
 
 ## Tech stack
 ### Programming languages
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Stata]()
 
 ## Certifications:
 
