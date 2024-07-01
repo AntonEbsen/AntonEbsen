@@ -35,6 +35,11 @@ Click the badge above to listen to my favorite playlist on Spotify!
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
 ![Stata](https://img.shields.io/badge/Stata-Informational?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
 
+### Programmes
+
+### Operating systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ## Certifications:
 
 <Br>
