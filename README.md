@@ -15,7 +15,9 @@
 
 ### 🎵 My Spotify Playlist
 
-[![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/6Xyzd03dtjtv4dRBfE1kyW?si=3012be615fa24225)
+Click the link below to listen to my favorite playlist on Spotify!
+
+[![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://<your-username>.github.io/<your-repo-name>/)
 
 Click the badge above to listen to my favorite playlist on Spotify!
 
