@@ -33,7 +33,7 @@ Click the badge above to listen to my favorite playlist on Spotify!
 ### Programming languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
-![Stata](https://img.shields.io/badge/Stata?style=for-the-badge&logo=stata&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-Informational?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
 
 ## Certifications:
 
