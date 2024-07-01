@@ -1,7 +1,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/AntonEbsen?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/AntonEbsen?style=social) 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AntonEbsen.repoName) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AntonEbsen.AntonEbsen) 
 <img src="https://komarev.com/ghpvc/?username=AntonEbsen" alt="AntonEbsen" />
 
 - 👋 Hi, I’m @AntonEbsen
