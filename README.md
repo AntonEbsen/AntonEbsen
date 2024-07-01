@@ -35,6 +35,7 @@ Click the badge above to listen to my favorite playlist on Spotify!
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
 ![Stata](https://img.shields.io/badge/Stata-Informational?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Programmes
 
