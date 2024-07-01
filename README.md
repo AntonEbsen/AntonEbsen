@@ -1,3 +1,9 @@
+
+![GitHub followers](https://img.shields.io/github/followers/AntonEbsen?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/AntonEbsen?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AntonEbsen.repoName) 
+<img src="https://komarev.com/ghpvc/?username=AntonEbsen" alt="AntonEbsen" />
+
 - 👋 Hi, I’m @AntonEbsen
 - 👀 I’m interested in macroeconomics
 - 🌱 I’m currently learning: SQL and MATLAB
