@@ -29,7 +29,11 @@ Click the badge above to listen to my favorite playlist on Spotify!
 
 <br>
 
-## Certifications
+## Tech stack
+### Programming languages
+[Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+## Certifications:
 
 <Br>
 
