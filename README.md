@@ -34,8 +34,10 @@ Click the badge above to listen to my favorite playlist on Spotify!
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
 ![Stata](https://img.shields.io/badge/Stata-Informational?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Programmes
+
 
 ### Operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
