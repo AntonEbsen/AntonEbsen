@@ -40,6 +40,7 @@ Click the badge above to listen to my favorite playlist on Spotify!
 ### Programmes
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![LyX](https://img.shields.io/badge/LyX-0072B6?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A248?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ### Operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
