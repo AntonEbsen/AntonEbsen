@@ -10,7 +10,7 @@ AntonEbsen/AntonEbsen is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Certifications! 🏆</h1>
+<h1>Certifications </h1>
 <Br>
 
 |[![](https://img.shields.io/badge/Introduction%20to%20Data%20Science%20in%20Python-red?style=for-the-badge)](https://github.com/AntonEbsen/AntonEbsen/blob/b0f0ca7f90afb3b33b117a81845ffabe990e7fe9/Certificates/Introduction%20to%20Data%20Science%20in%20Python.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://github.com/AntonEbsen/AntonEbsen/blob/b0f0ca7f90afb3b33b117a81845ffabe990e7fe9/Certificates/Intermediate%20Python.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/AntonEbsen/AntonEbsen/blob/b0f0ca7f90afb3b33b117a81845ffabe990e7fe9/Certificates/Python%20Data%20Science%20Toolbox%20Part%201.pdf)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/AntonEbsen/AntonEbsen/blob/b0f0ca7f90afb3b33b117a81845ffabe990e7fe9/Certificates/Python%20Data%20Science%20Toolbox%20part%202.pdf)|
