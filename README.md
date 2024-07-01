@@ -13,10 +13,11 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I own 150+ cans of mackerel in tomato sauce
 
-<!---
-AntonEbsen/AntonEbsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎵 My Spotify Playlist
+
+[![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/6Xyzd03dtjtv4dRBfE1kyW?si=3012be615fa24225)
+
+Click the badge above to listen to my favorite playlist on Spotify!
 
 ## Connect with me ☕:
 
