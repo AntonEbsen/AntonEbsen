@@ -37,7 +37,7 @@ Click the badge above to listen to my favorite playlist on Spotify!
 |---|---|---|---|
 |[![](https://img.shields.io/badge/Matlab%20Onramp-red?style=for-the-badge)](https://github.com/AntonEbsen/AntonEbsen/blob/b0f0ca7f90afb3b33b117a81845ffabe990e7fe9/Certificates/Certificate%20for%20MATLAB%20Onramp.pdf)|[![](https://img.shields.io/badge/Matlab%20Fundamentals-blue?style=for-the-badge)](https://github.com/AntonEbsen/AntonEbsen/blob/b0f0ca7f90afb3b33b117a81845ffabe990e7fe9/Certificates/Certificate%20for%20MATLAB%20Fundamentals.pdf)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://github.com/AntonEbsen/AntonEbsen/blob/b0f0ca7f90afb3b33b117a81845ffabe990e7fe9/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonEbsen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonEbsen&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
