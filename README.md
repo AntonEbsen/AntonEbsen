@@ -1,8 +1,6 @@
 
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Anton Meier Ebsen</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Anton Meier Ebsen</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/AntonEbsen?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/AntonEbsen?style=social) 
