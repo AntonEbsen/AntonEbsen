@@ -17,7 +17,7 @@
 
 Click the link below to listen to my favorite playlist on Spotify!
 
-[![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://<your-username>.github.io/<your-repo-name>/)
+[![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://<AntonEbsen>.github.io/<AntonEbsen>/)
 
 Click the badge above to listen to my favorite playlist on Spotify!
 
