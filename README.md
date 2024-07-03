@@ -44,6 +44,7 @@ Click the badge below to listen to my favorite playlist on Spotify!
 ![Maple](https://img.shields.io/badge/Maple-0072B6?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
