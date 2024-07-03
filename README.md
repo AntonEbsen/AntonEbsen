@@ -28,6 +28,8 @@ Click the badge below to listen to my favorite playlist on Spotify!
   <img src="https://img.icons8.com/?size=100&id=8weyx4k1jpJy&format=png&color=000000" alt="Reddit" width="50" height="50"/>
 </a> <a href="https://www.quora.com/profile/Anton-Meier-Ebsen">
   <img src="https://img.icons8.com/?size=100&id=wPcChHypTdti&format=png&color=000000" alt="Quora" width="50" height="50"/>
+</a> <a href="https://dk.pinterest.com/wowdeteranton/">
+  <img src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" alt="Pinterest" width="50" height="50"/>
 </a> 
 </a> <a href="https://steamcommunity.com/id/AntonEbsen/">
   <img src="https://img.icons8.com/color/48/000000/steam.png" alt="Steam" width="50" height="50"/> <a href="https://medium.com/@anton.ebsen">
