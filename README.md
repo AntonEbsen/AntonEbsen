@@ -15,13 +15,11 @@
 
 ## 🎵 My Spotify playlist
 
-Click the link below to listen to my favorite playlist on Spotify!
+Click the badge below to listen to my favorite playlist on Spotify!
 
 [![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://<AntonEbsen>.github.io/<AntonEbsen>/)
 
-Click the badge above to listen to my favorite playlist on Spotify!
-
-## Connect with me ☕:
+## Connect with me:
 
 <br>
 
@@ -44,6 +42,7 @@ Click the badge above to listen to my favorite playlist on Spotify!
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Maple](https://img.shields.io/badge/Maple-0072B6?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
