@@ -26,6 +26,8 @@ Click the badge below to listen to my favorite playlist on Spotify!
 [![@antonebsen](https://img.icons8.com/fluency/48/000000/instagram-new.png "@antonebsen")](https://www.instagram.com/antonebsen/) [![antonmeierebsen](https://img.icons8.com/fluency/48/000000/facebook.png "@antonmeierebsen")](https://www.facebook.com/antonmeierebsen/) [![@antonebsen](https://img.icons8.com/fluency/48/000000/linkedin.png "antonebsen")](https://www.linkedin.com/in/antonebsen/) [![@EbsenAnton](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@EbsenAnton")](https://twitter.com/EbsenAnton) [![@+4525740131](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+4525740131")](tel:+4525740131) [![@anton.ebsen@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anton.ebsen@gmail.com")](anton.ebsen@gmail.com) <a href="https://www.youtube.com/channel/UCy2watukchWb881sruMWsfg">
   <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="YouTube" width="50" height="50"/> <a href="https://www.reddit.com/user/AntonEbsen/">
   <img src="https://img.icons8.com/?size=100&id=8weyx4k1jpJy&format=png&color=000000" alt="Reddit" width="50" height="50"/>
+</a> <a href="https://www.quora.com/profile/Anton-Meier-Ebsen">
+  <img src="https://img.icons8.com/?size=100&id=wPcChHypTdti&format=png&color=000000" alt="Quora" width="50" height="50"/>
 </a> 
 </a> <a href="https://steamcommunity.com/id/AntonEbsen/">
   <img src="https://img.icons8.com/color/48/000000/steam.png" alt="Steam" width="50" height="50"/> <a href="https://medium.com/@anton.ebsen">
