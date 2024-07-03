@@ -23,7 +23,7 @@ Click the badge below to listen to my favorite playlist on Spotify!
 
 <br>
 
-[![@antonebsen](https://img.icons8.com/fluency/48/000000/instagram-new.png "@antonebsen")](https://www.instagram.com/antonebsen/) [![antonmeierebsen](https://img.icons8.com/fluency/48/000000/facebook.png "@antonmeierebsen")](https://www.facebook.com/antonmeierebsen/) [![@antonebsen](https://img.icons8.com/fluency/48/000000/linkedin.png "antonebsen")](https://www.linkedin.com/in/antonebsen/) [![@EbsenAnton](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@EbsenAnton")](https://twitter.com/EbsenAnton) [![@+4525740131](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+4525740131")](tel:+4525740131) [![@anton.ebsen@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anton.ebsen@gmail.com")](anton.ebsen@gmail.com)
+[![@antonebsen](https://img.icons8.com/fluency/48/000000/instagram-new.png "@antonebsen")](https://www.instagram.com/antonebsen/) [![antonmeierebsen](https://img.icons8.com/fluency/48/000000/facebook.png "@antonmeierebsen")](https://www.facebook.com/antonmeierebsen/) [![@antonebsen](https://img.icons8.com/fluency/48/000000/linkedin.png "antonebsen")](https://www.linkedin.com/in/antonebsen/) [![@EbsenAnton](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@EbsenAnton")](https://twitter.com/EbsenAnton) [![@+4525740131](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+4525740131")](tel:+4525740131) [![@anton.ebsen@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anton.ebsen@gmail.com")](anton.ebsen@gmail.com) [![@AntonEbsen](https://img.icons8.com/?size=100&id=zNqjI8XKkCv0&format=png&color=000000)](https://steamcommunity.com/id/AntonEbsen/)
 
 <br>
 
