@@ -23,8 +23,8 @@ Click the badge below to listen to my favorite playlist on Spotify!
 
 <br>
 
-[![@antonebsen](https://img.icons8.com/fluency/48/000000/instagram-new.png "@antonebsen")](https://www.instagram.com/antonebsen/) [![antonmeierebsen](https://img.icons8.com/fluency/48/000000/facebook.png "@antonmeierebsen")](https://www.facebook.com/antonmeierebsen/) [![@antonebsen](https://img.icons8.com/fluency/48/000000/linkedin.png "antonebsen")](https://www.linkedin.com/in/antonebsen/) [![@EbsenAnton](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@EbsenAnton")](https://twitter.com/EbsenAnton) [![@+4525740131](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+4525740131")](tel:+4525740131) [![@anton.ebsen@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anton.ebsen@gmail.com")](anton.ebsen@gmail.com) <a href="https://steamcommunity.com/id/your-steam-id/">
-  <img src="https://img.icons8.com/color/48/000000/steam.png" alt="Steam" width="30" height="30"/>
+[![@antonebsen](https://img.icons8.com/fluency/48/000000/instagram-new.png "@antonebsen")](https://www.instagram.com/antonebsen/) [![antonmeierebsen](https://img.icons8.com/fluency/48/000000/facebook.png "@antonmeierebsen")](https://www.facebook.com/antonmeierebsen/) [![@antonebsen](https://img.icons8.com/fluency/48/000000/linkedin.png "antonebsen")](https://www.linkedin.com/in/antonebsen/) [![@EbsenAnton](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@EbsenAnton")](https://twitter.com/EbsenAnton) [![@+4525740131](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+4525740131")](tel:+4525740131) [![@anton.ebsen@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anton.ebsen@gmail.com")](anton.ebsen@gmail.com) <a href="https://steamcommunity.com/id/AntonEbsen/">
+  <img src="https://img.icons8.com/color/48/000000/steam.png" alt="Steam" width="50" height="50"/>
 </a>
 
 <br>
