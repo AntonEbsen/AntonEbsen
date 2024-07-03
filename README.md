@@ -37,6 +37,9 @@ Click the badge below to listen to my favorite playlist on Spotify!
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Packages
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ### Programmes
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![LyX](https://img.shields.io/badge/LyX-0072B6?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
