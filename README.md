@@ -18,14 +18,11 @@
   </samp>
 </details>
 
-<details>
-  <summary><b>🎵 My Spotify playlist</b></summary>
-  <samp>
-    Click the badge below to listen to my favorite playlist on Spotify!
-    <br>
-    [![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://AntonEbsen.github.io/)
-  </samp>
-</details>
+## 🎵 My Spotify playlist
+
+Click the badge below to listen to my favorite playlist on Spotify!
+
+[![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://<AntonEbsen>.github.io/<AntonEbsen>/)
 
 <details>
   <summary><b>Connect with me</b></summary>
