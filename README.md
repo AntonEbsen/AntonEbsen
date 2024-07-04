@@ -20,7 +20,7 @@
   <summary><b>🎵 My Spotify playlist</b></summary>
   Click the badge below to listen to my favorite playlist on Spotify!
   <br>
-  [![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://<AntonEbsen>.github.io/<AntonEbsen>/)
+  [![Spotify](https://img.shields.io/badge/Spotify-Play-blue?style=for-the-badge&logo=spotify)](https://AntonEbsen.github.io/)
 </details>
 
 <details>
@@ -31,7 +31,7 @@
   [![@antonebsen](https://img.icons8.com/fluency/48/000000/linkedin.png "antonebsen")](https://www.linkedin.com/in/antonebsen/)
   [![@EbsenAnton](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@EbsenAnton")](https://twitter.com/EbsenAnton)
   [![@+4525740131](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@+4525740131")](tel:+4525740131)
-  [![@anton.ebsen@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anton.ebsen@gmail.com")](anton.ebsen@gmail.com)
+  [![@anton.ebsen@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anton.ebsen@gmail.com")](mailto:anton.ebsen@gmail.com)
   <a href="https://www.youtube.com/channel/UCy2watukchWb881sruMWsfg">
     <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="YouTube" width="50" height="50"/>
   </a>
@@ -41,9 +41,9 @@
   <a href="https://www.quora.com/profile/Anton-Meier-Ebsen">
     <img src="https://img.icons8.com/?size=100&id=wPcChHypTdti&format=png&color=000000" alt="Quora" width="50" height="50"/>
   </a>
-  <a href="www.pinterest.com/antonmeierebsen">
+  <a href="http://www.pinterest.com/antonmeierebsen">
     <img src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" alt="Pinterest" width="50" height="50"/>
-  </a>
+  </a> 
   <a href="https://steamcommunity.com/id/AntonEbsen/">
     <img src="https://img.icons8.com/color/48/000000/steam.png" alt="Steam" width="50" height="50"/>
   </a>
@@ -57,15 +57,17 @@
   <summary><b>Tech stack</b></summary>
   <details>
     <summary>Programming languages</summary>
+    <br>
     ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
     ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-    ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
-    ![Stata](https://img.shields.io/badge/Stata-Informational?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
+    ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge)
+    ![Stata](https://img.shields.io/badge/Stata-Informational?style=for-the-badge)
     ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   </details>
   <details>
     <summary>Packages</summary>
+    <br>
     ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
     ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
@@ -74,12 +76,13 @@
   </details>
   <details>
     <summary>Programmes</summary>
+    <br>
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-    ![LyX](https://img.shields.io/badge/LyX-0072B6?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
+    ![LyX](https://img.shields.io/badge/LyX-0072B6?style=for-the-badge)
     ![Overleaf](https://img.shields.io/badge/Overleaf-47A248?style=for-the-badge&logo=overleaf&logoColor=white)
     ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
     ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-    ![Maple](https://img.shields.io/badge/Maple-0072B6?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
+    ![Maple](https://img.shields.io/badge/Maple-0072B6?style=for-the-badge)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -99,10 +102,11 @@
     ![Wolfram Alpha](https://img.shields.io/badge/Wolfram%20Alpha-DD1100?style=for-the-badge&logo=wolfram-alpha&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-    ![ChatGPT](https://img.shields.io/badge/ChatGPT-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
+    ![ChatGPT](https://img.shields.io/badge/ChatGPT-0A66C2?style=for-the-badge)
   </details>
   <details>
     <summary>Operating systems</summary>
+    <br>
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   </details>
@@ -132,3 +136,4 @@
   <summary><b>Joke</b></summary>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </details>
+
