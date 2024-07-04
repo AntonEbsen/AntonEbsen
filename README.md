@@ -18,6 +18,19 @@
   </samp>
 </details>
 
+## My GitHub repository:
+
+<div>
+  <p>
+    <a href="https://github.com/AntonEbsen/SVAR-models.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonEbsen&repo=SVAR-models" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/AntonEbsen/YourSecondRepo.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonEbsen&repo=YourSecondRepo" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
 ## 🎵 My Spotify playlist
 
 Click the badge below to listen to my favorite playlist on Spotify!
