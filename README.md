@@ -93,3 +93,6 @@ Click the badge below to listen to my favorite playlist on Spotify!
 
 ## Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## Joke
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
