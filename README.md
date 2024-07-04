@@ -18,15 +18,15 @@
   </samp>
 </details>
 
-## My GitHub repository:
+## My GitHub repositories
 
 <div>
   <p>
     <a href="https://github.com/AntonEbsen/SVAR-models.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonEbsen&repo=SVAR-models" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/AntonEbsen/YourSecondRepo.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonEbsen&repo=YourSecondRepo" alt="GitHub Stats" />
+    <a href="https://github.com/AntonEbsen/antonebsen.dk.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntonEbsen&repo=antonebsen.dk" alt="GitHub Stats" />
     </a>
   </p>
 </div>
