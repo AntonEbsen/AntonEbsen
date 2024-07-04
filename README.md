@@ -76,6 +76,7 @@ Click the badge below to listen to my favorite playlist on Spotify!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Wolfram Alpha](https://img.shields.io/badge/Wolfram%20Alpha-DD1100?style=for-the-badge&logo=wolfram-alpha&logoColor=white)
 
 ### Operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
