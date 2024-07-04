@@ -31,7 +31,7 @@
   </p>
 </div>
 
-## 🎵 My Spotify playlist
+## My Spotify playlist
 
 Click the badge below to listen to my favorite playlist on Spotify!
 
@@ -100,6 +100,7 @@ Click the badge below to listen to my favorite playlist on Spotify!
 ![Wolfram Alpha](https://img.shields.io/badge/Wolfram%20Alpha-DD1100?style=for-the-badge&logo=wolfram-alpha&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe PDF](https://img.shields.io/badge/Adobe%20PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,<Base64-encoded-string>)
 
 ### Operating systems
