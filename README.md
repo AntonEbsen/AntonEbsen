@@ -10,7 +10,7 @@
   <samp>
     <ul>
       <li>👀 I’m interested in macroeconomics</li>
-      <li>🌱 I’m currently learning: SQL and MATLAB</li>
+      <li>🌱 I’m currently learning: GAMS and SAS</li>
       <li>📫 How to reach me: Anywhere on social media (Linked in profile)</li>
       <li>😄 Pronouns: He/Him/His</li>
       <li>⚡ Fun fact: I own 150+ cans of mackerel in tomato sauce</li>
